@@ -30,8 +30,10 @@ The system is inspired by international headache classification standards (ICHD-
 ✅ **Proactive Safety Questions**  
 - Automatically checks for allergies, heart disease, pregnancy, or medication conflicts.
 
-✅ **Reset & Re-run Anytime**  
-- Clear all answers and restart a new consultation easily.
+✅**Restart Anytime**
+
+* Erase previous responses and begin a fresh consultation effortlessly.
+
 
 ---
 
